@@ -9,28 +9,28 @@
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://agustinhurtado.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>https://agustinhurtado.github.io/docs/post1-personal/</link>
+      <link>https://agustinhurtado.github.io/docs/personal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://agustinhurtado.github.io/docs/post1-personal/</guid>
+      <guid>https://agustinhurtado.github.io/docs/personal/</guid>
       <description>Biografia y proyectos</description>
     </item>
     
     <item>
-      <title>Taller de productos</title>
-      <link>https://agustinhurtado.github.io/docs/post2-croquis/</link>
+      <title>Referentes e investigacion</title>
+      <link>https://agustinhurtado.github.io/docs/referentes/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://agustinhurtado.github.io/docs/post2-croquis/</guid>
+      <guid>https://agustinhurtado.github.io/docs/referentes/</guid>
       <description>Biografia y proyectos</description>
     </item>
     
     <item>
-      <title>Encardo 02</title>
-      <link>https://agustinhurtado.github.io/docs/post3-entrega02/</link>
+      <title>Diseño personal</title>
+      <link>https://agustinhurtado.github.io/docs/dise%C3%B1opersonal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://agustinhurtado.github.io/docs/post3-entrega02/</guid>
+      <guid>https://agustinhurtado.github.io/docs/dise%C3%B1opersonal/</guid>
       <description>Biografia y proyectos</description>
     </item>
     
@@ -40,6 +40,24 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://agustinhurtado.github.io/docs/post3-entregagrupal/</guid>
+      <description>Biografia y proyectos</description>
+    </item>
+    
+    <item>
+      <title>Entrega final U1</title>
+      <link>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy/</guid>
+      <description>Biografia y proyectos</description>
+    </item>
+    
+    <item>
+      <title>Maq y Mod 02</title>
+      <link>https://agustinhurtado.github.io/docs/maqueta/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://agustinhurtado.github.io/docs/maqueta/</guid>
       <description>Biografia y proyectos</description>
     </item>
     
@@ -89,20 +107,11 @@
     </item>
     
     <item>
-      <title>Post 5</title>
-      <link>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy-3/</link>
+      <title>Post 2.5</title>
+      <link>https://agustinhurtado.github.io/docs/post2.5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy-3/</guid>
-      <description>Biografia y proyectos</description>
-    </item>
-    
-    <item>
-      <title>Post 6</title>
-      <link>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://agustinhurtado.github.io/docs/post3-entregagrupal-copy/</guid>
+      <guid>https://agustinhurtado.github.io/docs/post2.5/</guid>
       <description>Biografia y proyectos</description>
     </item>
     
